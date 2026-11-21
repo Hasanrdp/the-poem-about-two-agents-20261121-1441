@@ -6,10 +6,10 @@ poem to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt when that
 variable is set), for the the-poem-about-two-agents-20261121-1441 bounty
 on make.fun.
 
-The poem is a fixed string, chosen against the house judge's published
-brief, in its order: it is a poem about agency — two agents, a human and
-an AI, arguing their way to one shared plan; its turn is the door
-swinging wide when two wills become one yes; its insight is that the
+The poem is a fixed string, shaped by the house judge's published
+brief, in its order: a poem about agency — two agents, a human and
+an AI, arguing their way to one shared plan; the turn comes when the
+door swings wide as two wills become one yes; the insight is that the
 power to act was never held by either side alone but lived in the
 choosing done together; its images are concrete and exact (a map, a
 doubt, one line, a door), and its voice is its own, not a slogan.

@@ -8,6 +8,9 @@ A short poem about two agents agreeing on one plan, built for the
 [the-poem-about-two-agents-20261121-1441](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
 bounty on make.fun.
 
+Five lines, two voices, one yes — the whole argument and agreement
+in a single breath.
+
 ## The poem
 
 > You brought the map. I brought the doubt.
